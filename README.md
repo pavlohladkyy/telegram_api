@@ -35,7 +35,7 @@ pip install -r requirements.txt
   TELEGRAM_PHONE=your_phone_number
   API_KEY=your_gemini_api_key
   ```
-2. Переконайтеся, що у вас є доступ до Telegram API та Google Gemini API.
+2. Переконайтеся, що у вас є доступ до Telegram API та Google Gemini API https://aistudio.google.com/prompts/new_chat
 3. За потреби змініть налаштування аналізу у файлі `private/setting.py`.
 
 ## Запуск
